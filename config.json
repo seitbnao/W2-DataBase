@@ -1,0 +1,20 @@
+{
+  "ServerName": "WYD",
+  "IPAddrs": "127.0.0.1",
+  "Port": 7514,
+  "MYSQL_Server": "localhost",
+  "MYSQL_DataBase": "wyd2pp",
+  "MYSQL_User": "root",
+  "MYSQL_Pass": "",
+  "ChargedGuildList": {
+    "Guild": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Sapphire": 8,
+  "LastCapsule": 1
+}
